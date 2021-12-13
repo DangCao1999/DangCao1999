@@ -26,4 +26,6 @@ I'm a software engineer/community advocate in Vietnam, HCM. I spend most time wo
 if lazy is None:
     self.setup_github_action(#env.tokens)
 ```
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgdsc.hsu%2Fposts%2F135463578794377&show_text=true&width=500" width="500" height="455" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<a href="https://www.facebook.com/gdsc.hsu/posts/135463578794377" target="_blank"><img src="https://scontent.fvca1-3.fna.fbcdn.net/v/t39.30808-6/240604844_135460742127994_1974796903384777640_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=H2wGj8ykjjMAX8sTPpa&_nc_ht=scontent.fvca1-3.fna&oh=6216a0ab17897ec9f61bb2708d5bf7f7&oe=61BBC648" 
+alt="Sharing Git/Github"/></a>
