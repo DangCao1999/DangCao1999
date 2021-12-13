@@ -18,7 +18,7 @@ I'm a software engineer/community advocate in Vietnam, HCM. I spend most time wo
 
 ### Github Stats
 
-[![dangcao1999 Github Stats](https://github-readme-stats.vercel.app/api?username=truonghoangduy&count_private=true&theme=default&show_icons=true)](https://github.com/dangcao1999)
+[![dangcao1999 Github Stats](https://github-readme-stats.vercel.app/api?username=dangcao1999&count_private=true&theme=default&show_icons=true)](https://github.com/dangcao1999)
 
 ----
 *latest sharing post via community*
