@@ -7,8 +7,8 @@ I'm a software engineer/community advocate in Vietnam, HCM. I spend most time wo
 - ✊ Visit ours blazing community at [fb.com/gdsc.hsu](https://www.facebook.com/gdsc.hsu) Google Developer Student Clubs
 - 👨🏻‍💻 I’m looking to collaborate on open source projects
 - ⚡ Func fact: I'm a guys with all most of *tech* interests in "`Design UI/UX, Hardware Computer,...`" things are weird at my 🏠
-- 🔗 [CV](./docs/CV.pdf)
-- 👽 Certifications&honour are located at [here]()
+- 🔗 [CV](https://www.topcv.vn/xem-cv/VARXBlNbAQoMV1RRUQRdUgMGUlBSXA8OBF0EAw7ccd)
+<!-- - 👽 Certifications&honour are located at [here]() -->
 
 <div>
     I'm best reached via <a href="mailto:dangcao3659@gmail.com"/>email</a>. I'm always open to interesting conversations and collaboration.
