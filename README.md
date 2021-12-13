@@ -22,5 +22,6 @@ I'm a software engineer/community advocate in Vietnam, HCM. I spend most time wo
 
 ----
 *latest sharing post via community*
-<a href="https://www.facebook.com/gdsc.hsu/posts/135463578794377" target="_blank"><img width="300px" src="https://scontent.fvca1-3.fna.fbcdn.net/v/t39.30808-6/p180x540/240604844_135460742127994_1974796903384777640_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=H2wGj8ykjjMAX8sTPpa&_nc_ht=scontent.fvca1-3.fna&oh=fff9f988ead39dfe7e12f8ddef44e7db&oe=61BAB19D" 
+
+<a href="https://www.facebook.com/gdsc.hsu/posts/135463578794377" target="_blank"><img src="https://scontent.fvca1-3.fna.fbcdn.net/v/t39.30808-6/p180x540/240604844_135460742127994_1974796903384777640_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=H2wGj8ykjjMAX8sTPpa&_nc_ht=scontent.fvca1-3.fna&oh=fff9f988ead39dfe7e12f8ddef44e7db&oe=61BAB19D" 
 alt="Sharing Git/Github"/></a>
