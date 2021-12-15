@@ -6,7 +6,7 @@ I'm a software engineer/community advocate in Vietnam, HCM. I spend most time wo
 - 📹 I'm also learning video editing skill aka 'Filmora' and Design UI/UX with 'Adobe Insulation' - 'Adobe XD' - 'Figma'
 - ✊ Visit ours blazing community at [fb.com/gdsc.hsu](https://www.facebook.com/gdsc.hsu) Google Developer Student Clubs
 - 👨🏻‍💻 I’m looking to collaborate on open source projects
-- ⚡ Func fact: I'm a guys with all most of *tech* interests in "`Design UI/UX, Hardware Computer,...`" things are weird at my 🏠
+- ⚡ Func fact: I'm a guys with all most of *tech* interests in "`Design UI/UX, ML, Deep Learning, Hardware Computer,...`" things are weird at my 🏠
 - 🔗 [CV](https://www.topcv.vn/xem-cv/VARXBlNbAQoMV1RRUQRdUgMGUlBSXA8OBF0EAw7ccd)
 - 👽 Certifications&honour are located at [here](https://github.com/DangCao1999/DangCao1999/tree/main/certification)
 
